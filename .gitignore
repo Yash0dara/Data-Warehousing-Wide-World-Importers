@@ -1,0 +1,14 @@
+# Visual Studio / SSIS / SSAS build & user files
+.vs/
+**/bin/
+**/obj/
+*.user
+*.database
+
+# Backups / archives
+*.bak
+*.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
